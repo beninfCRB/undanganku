@@ -1,0 +1,11 @@
+.img-hor {
+  transform: rotateY(180deg); // Rotate 180 degrees along the y-axis
+}
+
+.img-vert {
+  transform: rotateX(180deg); // Rotate 180 degrees along the x-axis
+}
+
+.img-hor-vert {
+  transform: rotateX(180deg) rotateY(180deg); // Rotate 180 degrees on both
+}
